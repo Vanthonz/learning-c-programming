@@ -43,7 +43,7 @@ int main()
         z = x - y;
         
         printf("solution = %d\n", z);
-        }
+    }
 
     return 0;
 }
